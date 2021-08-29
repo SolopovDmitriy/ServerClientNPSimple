@@ -1,0 +1,7 @@
+C:\Users\de_Riter\source\repos\NPSimple\NPSimple\bin\Debug\NPSimple.exe.config
+C:\Users\de_Riter\source\repos\NPSimple\NPSimple\bin\Debug\NPSimple.exe
+C:\Users\de_Riter\source\repos\NPSimple\NPSimple\bin\Debug\NPSimple.pdb
+C:\Users\de_Riter\source\repos\NPSimple\NPSimple\obj\Debug\NPSimple.csproj.AssemblyReference.cache
+C:\Users\de_Riter\source\repos\NPSimple\NPSimple\obj\Debug\NPSimple.csproj.CoreCompileInputs.cache
+C:\Users\de_Riter\source\repos\NPSimple\NPSimple\obj\Debug\NPSimple.exe
+C:\Users\de_Riter\source\repos\NPSimple\NPSimple\obj\Debug\NPSimple.pdb

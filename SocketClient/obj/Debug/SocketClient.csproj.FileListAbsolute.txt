@@ -1,0 +1,7 @@
+D:\c#\lesson90\NPSimple\SocketClient\bin\Debug\SocketClient.exe.config
+D:\c#\lesson90\NPSimple\SocketClient\bin\Debug\SocketClient.exe
+D:\c#\lesson90\NPSimple\SocketClient\bin\Debug\SocketClient.pdb
+D:\c#\lesson90\NPSimple\SocketClient\obj\Debug\SocketClient.csprojAssemblyReference.cache
+D:\c#\lesson90\NPSimple\SocketClient\obj\Debug\SocketClient.csproj.CoreCompileInputs.cache
+D:\c#\lesson90\NPSimple\SocketClient\obj\Debug\SocketClient.exe
+D:\c#\lesson90\NPSimple\SocketClient\obj\Debug\SocketClient.pdb

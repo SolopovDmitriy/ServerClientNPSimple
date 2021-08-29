@@ -1,0 +1,14 @@
+C:\Users\de_Riter\source\repos\NPSimple\SocketServer\bin\Debug\SocketServer.exe.config
+C:\Users\de_Riter\source\repos\NPSimple\SocketServer\bin\Debug\SocketServer.exe
+C:\Users\de_Riter\source\repos\NPSimple\SocketServer\bin\Debug\SocketServer.pdb
+C:\Users\de_Riter\source\repos\NPSimple\SocketServer\obj\Debug\SocketServer.csproj.AssemblyReference.cache
+C:\Users\de_Riter\source\repos\NPSimple\SocketServer\obj\Debug\SocketServer.csproj.CoreCompileInputs.cache
+C:\Users\de_Riter\source\repos\NPSimple\SocketServer\obj\Debug\SocketServer.exe
+C:\Users\de_Riter\source\repos\NPSimple\SocketServer\obj\Debug\SocketServer.pdb
+D:\c#\lesson90\NPSimple\SocketServer\bin\Debug\SocketServer.exe.config
+D:\c#\lesson90\NPSimple\SocketServer\bin\Debug\SocketServer.exe
+D:\c#\lesson90\NPSimple\SocketServer\obj\Debug\SocketServer.csprojAssemblyReference.cache
+D:\c#\lesson90\NPSimple\SocketServer\obj\Debug\SocketServer.csproj.CoreCompileInputs.cache
+D:\c#\lesson90\NPSimple\SocketServer\obj\Debug\SocketServer.exe
+D:\c#\lesson90\NPSimple\SocketServer\obj\Debug\SocketServer.pdb
+D:\c#\lesson90\NPSimple\SocketServer\bin\Debug\SocketServer.pdb
